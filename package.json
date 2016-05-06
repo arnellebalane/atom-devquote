@@ -1,7 +1,7 @@
 {
   "name": "atom-devquote",
   "main": "./lib/atom-devquote",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Show a random developer quote within Atom.",
   "keywords": [],
   "activationCommands": {
