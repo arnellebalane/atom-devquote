@@ -7,12 +7,24 @@
   "activationCommands": {
     "atom-workspace": "atom-devquote:show-random-quote"
   },
-  "repository": "https://github.com/atom/atom-devquote",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnellebalane/atom-devquote.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "devquote": "^1.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/arnellebalane/atom-devquote/issues"
+  },
+  "homepage": "https://github.com/arnellebalane/atom-devquote#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnelle Balane <arnellebalane@gmail.com>"
 }
