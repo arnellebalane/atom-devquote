@@ -2,11 +2,10 @@
   "name": "atom-devquote",
   "main": "./lib/atom-devquote",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
+  "description": "Show a random developer quote within Atom.",
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-devquote:toggle"
+    "atom-workspace": "atom-devquote:show-random-quote"
   },
   "repository": "https://github.com/atom/atom-devquote",
   "license": "MIT",
@@ -14,5 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "devquote": "^1.2.0"
   }
 }

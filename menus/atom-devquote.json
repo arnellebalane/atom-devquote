@@ -1,22 +1,14 @@
 {
-    "context-menu": {
-        "atom-text-editor": [
-            {
-                "label": "Toggle atom-devquote",
-                "command": "atom-devquote:toggle"
-            }
-        ]
-    },
     "menu": [
         {
             "label": "Packages",
             "submenu": [
                 {
-                    "label": "atom-devquote",
+                    "label": "Atom Devquote",
                     "submenu": [
                         {
-                            "label": "Toggle",
-                            "command": "atom-devquote:toggle"
+                            "label": "Show Random Quote",
+                            "command": "atom-devquote:show-random-quote"
                         }
                     ]
                 }

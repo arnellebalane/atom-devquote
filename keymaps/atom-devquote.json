@@ -1,5 +1,5 @@
 {
     "atom-workspace": {
-        "ctrl-alt-o": "atom-devquote:toggle"
+        "ctrl-alt-shift-d": "atom-devquote:show-random-quote"
     }
 }
