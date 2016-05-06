@@ -2,7 +2,7 @@
 
 Show a random developer quote within Atom.
 
-![Atom Devquote](http://i.imgur.com/P8lAyWZ.gif)
+![Atom Devquote](https://cloud.githubusercontent.com/assets/1428598/15076838/31eca792-13de-11e6-956d-d52a7d62a2b2.png)
 
 
 ## Usage
