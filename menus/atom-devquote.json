@@ -1,26 +1,26 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-devquote",
-        "command": "atom-devquote:toggle"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-devquote",
-          "submenu": [
+    "context-menu": {
+        "atom-text-editor": [
             {
-              "label": "Toggle",
-              "command": "atom-devquote:toggle"
+                "label": "Toggle atom-devquote",
+                "command": "atom-devquote:toggle"
             }
-          ]
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "atom-devquote",
+                    "submenu": [
+                        {
+                            "label": "Toggle",
+                            "command": "atom-devquote:toggle"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "atom-devquote:toggle"
-  }
+    "atom-workspace": {
+        "ctrl-alt-o": "atom-devquote:toggle"
+    }
 }
